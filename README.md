@@ -1,4 +1,4 @@
-# Dynastys-Portfolio
+# Mojiboye's Portfolio
 
 <h1 align="center">Hi 👋, I'm Mojiboye Emmanuel Oluwole</h1>
 <h3 align="center">A front end developer on his way to full stack</h3>
