@@ -3,15 +3,21 @@
 <h1 align="center">Hi 👋, I'm Mojiboye Emmanuel Oluwole</h1>
 <h3 align="center">A front end developer on his way to full stack</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emzzy241&label=Profile%20views&color=0e75b6&style=flat" alt="emzzy241" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emzzy241" alt="emzzy241" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/emzzy241" target="blank"><img src="https://img.shields.io/twitter/follow/emzzy241?logo=twitter&style=for-the-badge" alt="emzzy241" /></a> </p>
 
-- 🔭 I’m currently working on **A Crypto and Stock update applicaton**
+- 🔭 I’m currently working on [A Crypto and Stock updates applicaton](https://github.com/Emzzy241/Yay-Crypto-Stock)
 
-- 🌱 I’m currently learning **jQuery, JavaScript API**
+- 🌱 I’m currently learning **jQuery, JavaScript API, JavaScript and other Frontend stuffs**
 
 - 👯 I’m looking to collaborate on **Front end Projects**
 
-- 🤝 I’m looking for help with **Resources to further my frontend learning**
+- 🤝 I’m looking for help with [Resources to further my frontend learning](https://github.com/Emzzy241/Yay-Crypto-Stock)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Emzzy241?tab=repositories](https://github.com/Emzzy241?tab=repositories)
 
 - 💬 Ask me about **vanilla js, jQuery, Bootstrap, Html and Css**
 
@@ -34,4 +40,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Emzzy241"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Emzzy241" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emzzy241&show_icons=true&locale=en&layout=compact" alt="emzzy241" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emzzy241&show_icons=true&locale=en&layout=compact" alt="emzzy241" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emzzy241&show_icons=true&locale=en" alt="emzzy241" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emzzy241&" alt="emzzy241" /></p>
