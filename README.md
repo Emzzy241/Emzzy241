@@ -1,5 +1,3 @@
-# Mojiboye's Portfolio
-
 <h1 align="center">Hi 👋, I'm Mojiboye Emmanuel Oluwole</h1>
 <h3 align="center">A front end developer on his way to full stack</h3>
 
@@ -23,7 +21,9 @@
 
 - 📫 How to reach me **emzzyoluwole@gmail.com**
 
-- ⚡ Fun fact **I don't eat Breakfast**
+- 📄 Know about my experiences [https://profile.indeed.com/document/view](https://profile.indeed.com/document/view)
+
+- ⚡ Fun fact **I write codes with my books too and not only with keyboards**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,3 +45,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emzzy241&show_icons=true&locale=en" alt="emzzy241" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emzzy241&" alt="emzzy241" /></p>
+
