@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **emzzyoluwole@gmail.com**
 
-- 📄 Know about my experiences (https://emmanuelmojiboye.journoportfolio.com/)
+- 📄 My Portfolio Website (https://emmanuelmojiboye.journoportfolio.com/)
 
 - 📄 Download My Resume (https://profile.indeed.com/)
 
