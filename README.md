@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/emzzy241" target="blank"><img src="https://img.shields.io/twitter/follow/emzzy241?logo=twitter&style=for-the-badge" alt="emzzy241" /></a> </p>
 
 - 🔭 I’m currently working on [Fullstack Projects](https://github.com/Emzzy241)
-- 
+  
 - 🔭 Check out my youtube channel [codeDynasty Studios[cDS]](https://github.com/Emzzy241)
 
 - 🌱 I’m currently learning **ASP.NET MVC 6.0**
