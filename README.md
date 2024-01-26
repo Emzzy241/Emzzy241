@@ -36,7 +36,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16714875/emmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16714875/emmanuel" height="30" width="40" /></a>
 <a href="https://fb.com/emmanuel oluwole mojiboye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanuel oluwole mojiboye" height="30" width="40" /></a>
 <a href="https://instagram.com/emmanuel.9944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel.9944" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/emmanuel (oluwole) mojiboye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emmanuel (oluwole) mojiboye" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC7dYHzc9BqPgHnjbzEp9MQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emmanuel (oluwole) mojiboye" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
