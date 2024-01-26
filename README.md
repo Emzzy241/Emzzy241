@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mojiboye Emmanuel Oluwole</h1>
-<h3 align="center">A front end developer on his road to full stack</h3>
+<h1 align="center">Hi 👋, I'm Mojiboye Emmanuel Oluwole[Dynasty]</h1>
+<h3 align="center">A Fullstack Developerk</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emzzy241&label=Profile%20views&color=0e75b6&style=flat" alt="emzzy241" /> </p>
 
