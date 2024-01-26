@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Fullstack Projects](https://github.com/Emzzy241)
   
-- 🔭 Check out my youtube channel [codeDynasty Studios[cDS]](https://github.com/Emzzy241)
+- 🔭 Check out my youtube channel [codeDynasty Studios[cDS]](https://www.youtube.com/channel/UC7dYHzc9BqPgHnjbzEp9MQg)
 
 - 🌱 I’m currently learning **ASP.NET MVC 6.0**
 
