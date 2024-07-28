@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mojiboye Emmanuel Oluwole[Dynasty]</h1>
-<h3 align="center">A Fullstack Engineer </h3>
+<h3 align="center">A Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emzzy241&label=Profile%20views&color=0e75b6&style=flat" alt="emzzy241" /> </p>
 
@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/emzzy241" target="blank"><img src="https://img.shields.io/twitter/follow/emzzy241?logo=twitter&style=for-the-badge" alt="emzzy241" /></a> </p>
 
-- 🔭 I’m currently working on [Fullstack Projects](https://github.com/Emzzy241)
+- 🔭 I build easy to use [products](https://github.com/Emzzy241)
   
 - 🔭 Check out my youtube channel [codeDynasty Studios[cDS]](https://www.youtube.com/channel/UC7dYHzc9BqPgHnjbzEp9MQg)
 
-- 🌱 I’m currently learning **ASP.NET MVC 6.0**
-
-- 👯 I’m looking to collaborate on **Full stack Projects**
+- 👯 I’m looking to collaborate on **Frontend or Backend Projects**
 
 - 🤝 I’m looking for help with [Resources to further my learning](https://twitter.com/Emzzy241)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Emzzy241?tab=repositories](https://github.com/Emzzy241?tab=repositories)
 
-- 💬 Ask me about **C#, vanilla js, jQuery, Bootstrap, ASP.NET, Java**
+- 💬 Ask me about **C#, vanilla js, jQuery, Bootstrap, ASP.NET, Java, C++, React**
 
 - 📫 How to reach me **emzzyoluwole@gmail.com**
 
