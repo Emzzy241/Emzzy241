@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/emzzy241" target="blank"><img src="https://img.shields.io/twitter/follow/emzzy241?logo=twitter&style=for-the-badge" alt="emzzy241" /></a> </p>
 
-- 🔭 I build easy to use [products](https://github.com/Emzzy241)
+- 🔭 Aiming to build something [people want](https://github.com/Emzzy241)
   
 - 🔭 Check out my youtube channel [codeDynasty Studios[cDS]](https://www.youtube.com/channel/UC7dYHzc9BqPgHnjbzEp9MQg)
 
