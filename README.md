@@ -33,10 +33,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emzzy241&theme=algolia"" alt="emzzy241" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/emzzy241" target="blank"><img src="https://img.shields.io/twitter/follow/emzzy241?logo=twitter&style=for-the-badge&theme=algolia"" alt="emzzy241" /></a> </p>
-<br><br>
-
-<h3 align="left">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Emzzy241"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Emzzy241" /></a></p><br>
 
 
 <p>
@@ -46,3 +42,7 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emzzy241&theme=algolia" alt="emzzy241" /></p>
+
+
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Emzzy241"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"&theme=algolia height="50" width="210" alt="https://www.buymeacoffee.com/Emzzy241" /></a></p><br>
