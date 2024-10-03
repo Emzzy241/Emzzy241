@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I am Emmanuel Mojiboye (he/him)👋</h1>
+<h2 align="center">Hey, I am Emmanuel Mojiboye (he/him)👋</h2>
 <h3 align="center">A .NET Backend Developer </h3>
   
 - 🔭 Check out my youtube channel [codeDynasty Studios[cDS]](https://www.youtube.com/channel/UC7dYHzc9BqPgHnjbzEp9MQg)
@@ -35,7 +35,7 @@
 <p align="left"> <a href="https://twitter.com/emzzy241" target="blank"><img src="https://img.shields.io/twitter/follow/emzzy241?logo=twitter&style=for-the-badge&theme=algolia"" alt="emzzy241" /></a> </p>
 
 
-<p>
+<p align="center">
 <a href="https://github.com/emzzy241"><br><br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emzzy241&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emzzy241&theme=algolia"/>
 </a>
