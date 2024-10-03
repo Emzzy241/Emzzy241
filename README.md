@@ -3,15 +3,11 @@
 
 
 
-- 🔧 Using the following tools: ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-violet?style=plastic&logo=visual-studio) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-orange?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=plastic&logo=github)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emzzy241&label=Profile%20views&color=0e75b6&style=flat" alt="emzzy241" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emzzy241" alt="emzzy241" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/emzzy241" target="blank"><img src="https://img.shields.io/twitter/follow/emzzy241?logo=twitter&style=for-the-badge" alt="emzzy241" /></a> </p>
-
-- 🔭 Aiming to build something [people want](https://github.com/Emzzy241)
   
 - 🔭 Check out my youtube channel [codeDynasty Studios[cDS]](https://www.youtube.com/channel/UC7dYHzc9BqPgHnjbzEp9MQg)
 
@@ -21,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Emzzy241?tab=repositories](https://github.com/Emzzy241?tab=repositories)
 
-- 💬 Ask me about **C#, vanilla js, jQuery, Bootstrap, ASP.NET, Java, C++, React**
+- 💬 Ask me about **C#, ASP.NET**
 
 - 📫 How to reach me **emzzyoluwole@gmail.com**
 
 - 📄 My Portfolio Website (https://emmanuelmojiboye.journoportfolio.com/)
 
-- ⚡ Fun fact **Love to eat good foods**
+- 🔧 Using the following tools: ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-violet?style=plastic&logo=visual-studio) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-orange?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=plastic&logo=github)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,7 +42,7 @@
 <p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Emzzy241"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Emzzy241" /></a></p><br><br>
 
 
-<p align="center">
+<p>
 <a href="https://github.com/adityaoberai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emzzy241&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emzzy241&theme=algolia"/>
