@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mojiboye Emmanuel Oluwole[Dynasty]</h1>
+<h1 align="center">Hey, I am Emmanuel Mojiboye (he/him)👋</h1>
 <h3 align="center">A .NET Backend Developer </h3>
+
+
+
+- 🔧 Using the following tools: ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-violet?style=plastic&logo=visual-studio) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-orange?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=plastic&logo=github)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emzzy241&label=Profile%20views&color=0e75b6&style=flat" alt="emzzy241" /> </p>
 
@@ -23,8 +27,6 @@
 
 - 📄 My Portfolio Website (https://emmanuelmojiboye.journoportfolio.com/)
 
-- 📄 Download My Resume (https://profile.indeed.com/)
-
 - ⚡ Fun fact **Love to eat good foods**
 
 <h3 align="left">Connect with me:</h3>
@@ -43,7 +45,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Emzzy241"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Emzzy241" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emzzy241&show_icons=true&locale=en&layout=compact" alt="emzzy241" /></p>
+
+<p align="center">
+<a href="https://github.com/adityaoberai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emzzy241&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emzzy241&theme=algolia"/>
+</a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emzzy241&show_icons=true&locale=en" alt="emzzy241" /></p>
 
