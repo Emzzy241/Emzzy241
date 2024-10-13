@@ -2,7 +2,7 @@
 <h3 align="center">A .NET Backend Developer </h3>
 <br>
   
-- 🔭 Check out my youtube channel [codeDynasty Studios[cDS]](https://www.youtube.com/channel/UC7dYHzc9BqPgHnjbzEp9MQg)
+- 🔭 Check out my youtube channel where I talk about programming topics [codeDynasty Studios[cDS]](https://www.youtube.com/channel/UC7dYHzc9BqPgHnjbzEp9MQg)
 
 - 👯 I’m looking to collaborate on **.NET Projects**
 
