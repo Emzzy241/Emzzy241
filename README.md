@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I am Emmanuel Mojiboye (he/him)👋</h2>
+<h2 align="center">Hey there, I am Emmanuel Mojiboye (he/him)👋</h2>
 <h3 align="center">A .NET Backend Developer </h3>
 <br>
   
