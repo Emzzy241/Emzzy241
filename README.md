@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Emzzy241?tab=repositories](https://github.com/Emzzy241?tab=repositories)
 
-- 💬 Ask me about **C#, ASP.NET**
+- 💬 Ask me about **C#, .NET6, .NET8, ASP.NET, Web APIs, RESTful APIs**
 
 - 📫 How to reach me **emzzyoluwole@gmail.com**
 
