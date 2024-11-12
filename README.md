@@ -6,11 +6,11 @@
 
 - 👯 I’m looking to collaborate on **.NET Projects**
 
-- 🤝 I’m looking for help with [Resources to further my learning](https://twitter.com/Emzzy241)
+- 🤝 I’m looking for help with [Resources to make me a better Developer](https://twitter.com/Emzzy241)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Emzzy241?tab=repositories](https://github.com/Emzzy241?tab=repositories)
 
-- 💬 Ask me about **C#, .NET6, .NET8, ASP.NET, Web APIs, RESTful APIs**
+- 💬 Ask me about **C#, .NET6, .NET8, ASP.NET, Web APIs, RESTful APIs, **
 
 - 📫 How to reach me **emzzyoluwole@gmail.com**
 
