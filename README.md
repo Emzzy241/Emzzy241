@@ -1,5 +1,5 @@
 <h2 align="center">Hey there, I am Emmanuel Mojiboye (he/him)👋</h2>
-<h3 align="center">A .NET Backend Developer </h3>
+<h3 align="center">A DotNet Full-stack Developer </h3>
 <br>
   
 - 🔭 Check out my youtube channel where I talk about programming topics [codeDynasty Studios[cDS]](https://www.youtube.com/channel/UC7dYHzc9BqPgHnjbzEp9MQg)
