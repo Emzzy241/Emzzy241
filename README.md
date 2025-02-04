@@ -76,7 +76,9 @@
 
 🌍 [Ceresense](https://ceresense.com.ng/) | [Acedu](https://acedu.camp/)  
 
-  
+<br><br><br>
+  <h3 align="center"> More about Emmanuel </h3>
+  <br>
 - 🔭 Check out my youtube channel where I talk about programming topics [codeDynasty Studios[cDS]](https://www.youtube.com/channel/UC7dYHzc9BqPgHnjbzEp9MQg)
 
 - 👯 I’m looking to collaborate on **.NET Projects**
