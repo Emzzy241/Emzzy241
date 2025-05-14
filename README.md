@@ -12,6 +12,29 @@
 
 ## 💼 Work Experience
 
+### Backend Developer, Intern  
+**Syarpa | Remote ** *(May 2024 – Aug 2024)*  
+- Contributing to Bloom, one of Syarpa’s core products, used for saving, investing in U.S 
+Stocks, and paying bills.  
+- Implemented the Prohibited Countries API endpoint to reduce exposure to restricted 
+regions by 15%.
+- Conducting in-depth research into Anti-Money Laundering (AML) systems, evaluating architecture for a custom in-house solution that could reduce third-party service costs by over $5,000/month.
+
+### Backend Developer, Intern  
+**Aptus Agency | Remote** *(May 2024 – Aug 2024)*  
+- Developed and deployed a Password Recovery API endpoint, increasing user account recovery success rate by 30% and reducing support requests related to login issues.
+- Engineered Role-Based Access Control (RBAC) using TypeScript, resulting in a 40% improvement in access management efficiency and a reduction in unauthorized access incidents.
+- Actively participated in Agile ceremonies, including daily stand-ups and weekly sprint reviews, contributing to a 20% improvement in sprint delivery consistency.
+- Delivered timely updates and progress reports to the Technical Lead, maintaining 100% transparency and alignment on development goals and priorities.
+- Collaborated via Jira for task tracking, Bitbucket for version control, and Google Chat for team communication.
+
+
+### Software Engineer, Intern  
+**Ceresense | Ilorin, KWR, NGR** *(May 2024 – Aug 2024)*  
+- Contributed to the design and development of **Skill Centrum**, an enterprise-level skill scouting application.  
+- Optimized backend APIs using **.NET**, improving response time by **30%** and reducing memory usage by **20%**.
+- Gained expertise in backend development with .NET through hands-on projects and mentorship from senior engineers.  
+
 ### Software Engineer, Intern  
 **Ceresense | Ilorin, KWR, NGR** *(May 2024 – Aug 2024)*  
 - Contributed to the design and development of **Skill Centrum**, an enterprise-level skill scouting application.  
