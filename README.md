@@ -13,7 +13,7 @@
 ## 💼 Work Experience
 
 ### Backend Developer, Intern  
-**Syarpa | Remote ** *(March 2025 – current)*  
+** Syarpa | Remote ** *(March 2025 – current)*  
 - Contributing to Bloom, one of Syarpa’s core products, used for saving, investing in U.S 
 Stocks, and paying bills.  
 - Implemented the Prohibited Countries API endpoint to reduce exposure to restricted 
